@@ -1,4 +1,3 @@
-# 30 Days of python
 # 30 Days of Python Challenge
 
 This repo contains my solutions and notes for the 30 Days of Python challenge.
