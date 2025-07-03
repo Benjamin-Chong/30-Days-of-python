@@ -17,6 +17,9 @@
 #Part 3: Data types
 #type(10) -> int
 #type(9.8) -> float
-#type(3.14)
-#type([])
-
+#type(3.14) -> float
+#type(4 - 4j) -> complex
+#type(['Benjamin', 'Chong', 'Python']) -> list
+#type('Benjamin') -> string
+#type('Chong') -> string
+#type('USA') -> string

@@ -1,4 +1,4 @@
-#Day 1
+#Day 1 - Basic Python
 
 print(2 + 3)
 print(3 - 1)
