@@ -1,4 +1,4 @@
-#Day 3: Exercise 3 30 Days of Python Programming
+#Day 3: Exercise 30 Days of Python Programming
 
 age = 20
 height = 166.37
