@@ -1,0 +1,1949 @@
+[
+    [
+        {
+            "Country/Territory": "World",
+            "IMF[1][12]": "113,795,678",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "111,326,370",
+            "Forecast": "2024",
+            "Year": "100,834,796",
+            "Estimate": "2022"
+        },
+        {
+            "Country/Territory": "United States",
+            "IMF[1][12]": "30,507,217",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "29,184,890",
+            "Forecast": "2024",
+            "Year": "27,720,700",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "China",
+            "IMF[1][12]": "19,231,705",
+            "World Bank[13]": "[n 1]2025",
+            "United Nations[14]": "18,743,803",
+            "Forecast": "[n 3]2024",
+            "Year": "17,794,782",
+            "Estimate": "[n 1]2023"
+        },
+        {
+            "Country/Territory": "Germany",
+            "IMF[1][12]": "4,744,804",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "4,659,929",
+            "Forecast": "2024",
+            "Year": "4,525,704",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "India",
+            "IMF[1][12]": "4,187,017",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "3,912,686",
+            "Forecast": "2024",
+            "Year": "3,575,778",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Japan",
+            "IMF[1][12]": "4,186,431",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "4,026,211",
+            "Forecast": "2024",
+            "Year": "4,204,495",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "United Kingdom",
+            "IMF[1][12]": "3,839,180",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "3,643,834",
+            "Forecast": "2024",
+            "Year": "3,380,855",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "France",
+            "IMF[1][12]": "3,211,292",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "3,162,079",
+            "Forecast": "2024",
+            "Year": "3,051,832",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Italy",
+            "IMF[1][12]": "2,422,855",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "2,372,775",
+            "Forecast": "2024",
+            "Year": "2,300,941",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Canada",
+            "IMF[1][12]": "2,225,341",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "2,241,253",
+            "Forecast": "2024",
+            "Year": "2,142,471",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Brazil",
+            "IMF[1][12]": "2,125,958",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "2,179,412",
+            "Forecast": "2024",
+            "Year": "2,191,132",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Russia",
+            "IMF[1][12]": "2,076,396",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "2,173,836",
+            "Forecast": "2024",
+            "Year": "2,008,419",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Spain",
+            "IMF[1][12]": "1,799,511",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,722,746",
+            "Forecast": "2024",
+            "Year": "1,620,091",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "South Korea",
+            "IMF[1][12]": "1,790,322",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,712,793",
+            "Forecast": "2023",
+            "Year": "1,839,058",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Australia",
+            "IMF[1][12]": "1,771,681",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,752,193",
+            "Forecast": "2024",
+            "Year": "1,775,628",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Mexico",
+            "IMF[1][12]": "1,692,640",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,852,723",
+            "Forecast": "2024",
+            "Year": "1,793,799",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Turkey",
+            "IMF[1][12]": "1,437,406",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,323,255",
+            "Forecast": "2024",
+            "Year": "1,118,253",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Indonesia",
+            "IMF[1][12]": "1,429,743",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,396,300",
+            "Forecast": "2024",
+            "Year": "1,371,171",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Netherlands",
+            "IMF[1][12]": "1,272,011",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,227,544",
+            "Forecast": "2024",
+            "Year": "1,154,361",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Saudi Arabia",
+            "IMF[1][12]": "1,083,749",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,237,530",
+            "Forecast": "2024",
+            "Year": "1,067,583",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Poland",
+            "IMF[1][12]": "979,960",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "914,696",
+            "Forecast": "2024",
+            "Year": "809,201",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Switzerland",
+            "IMF[1][12]": "947,125",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "936,564",
+            "Forecast": "2024",
+            "Year": "894,425",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Taiwan",
+            "IMF[1][12]": "804,889",
+            "World Bank[13]": "[n 4]2025",
+            "United Nations[14]": "\u2014",
+            "Forecast": "\u2014"
+        },
+        {
+            "Country/Territory": "Belgium",
+            "IMF[1][12]": "684,864",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "664,564",
+            "Forecast": "2024",
+            "Year": "644,783",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Argentina",
+            "IMF[1][12]": "683,533",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "633,267",
+            "Forecast": "2024",
+            "Year": "646,075",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Sweden",
+            "IMF[1][12]": "620,297",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "610,118",
+            "Forecast": "2024",
+            "Year": "584,960",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Ireland",
+            "IMF[1][12]": "598,840",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "577,389",
+            "Forecast": "2024",
+            "Year": "551,395",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Israel",
+            "IMF[1][12]": "583,361",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "540,380",
+            "Forecast": "2024",
+            "Year": "513,611",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Singapore",
+            "IMF[1][12]": "564,774",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "547,387",
+            "Forecast": "2024",
+            "Year": "501,428",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "United Arab Emirates",
+            "IMF[1][12]": "548,598",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "537,079",
+            "Forecast": "2024",
+            "Year": "514,130",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Thailand",
+            "IMF[1][12]": "546,224",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "526,411",
+            "Forecast": "2024",
+            "Year": "514,945",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Austria",
+            "IMF[1][12]": "534,301",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "521,642",
+            "Forecast": "2024",
+            "Year": "511,685",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Norway",
+            "IMF[1][12]": "504,276",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "483,727",
+            "Forecast": "2024",
+            "Year": "485,311",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Philippines",
+            "IMF[1][12]": "497,495",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "461,618",
+            "Forecast": "2024",
+            "Year": "437,146",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Vietnam",
+            "IMF[1][12]": "490,970",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "476,388",
+            "Forecast": "2024",
+            "Year": "429,717",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Bangladesh",
+            "IMF[1][12]": "467,218",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "450,119",
+            "Forecast": "2024",
+            "Year": "422,431",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Denmark",
+            "IMF[1][12]": "449,940",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "429,457",
+            "Forecast": "2024",
+            "Year": "407,092",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Malaysia",
+            "IMF[1][12]": "444,984",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "421,972",
+            "Forecast": "2024",
+            "Year": "399,649",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Colombia",
+            "IMF[1][12]": "427,766",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "418,542",
+            "Forecast": "2024",
+            "Year": "363,540",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Hong Kong",
+            "IMF[1][12]": "423,999",
+            "World Bank[13]": "[n 5]2025",
+            "United Nations[14]": "407,107",
+            "Forecast": "2024",
+            "Year": "380,812",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "South Africa",
+            "IMF[1][12]": "410,338",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "400,261",
+            "Forecast": "2024",
+            "Year": "377,782",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Romania",
+            "IMF[1][12]": "403,395",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "382,768",
+            "Forecast": "2024",
+            "Year": "350,776",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Pakistan",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "373,072",
+            "United Nations[14]": "2024",
+            "Forecast": "299,864",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Czech Republic",
+            "IMF[1][12]": "360,244",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "345,037",
+            "Forecast": "2024",
+            "Year": "343,208",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Egypt",
+            "IMF[1][12]": "347,342",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "389,050",
+            "Forecast": "2024",
+            "Year": "331,590",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Chile",
+            "IMF[1][12]": "343,823",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "330,267",
+            "Forecast": "2024",
+            "Year": "335,533",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Iran",
+            "IMF[1][12]": "341,013",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "436,906",
+            "Forecast": "2024",
+            "Year": "401,596",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Portugal",
+            "IMF[1][12]": "321,440",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "308,683",
+            "Forecast": "2024",
+            "Year": "289,114",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Finland",
+            "IMF[1][12]": "303,945",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "299,836",
+            "Forecast": "2024",
+            "Year": "295,532",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Peru",
+            "IMF[1][12]": "303,293",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "289,222",
+            "Forecast": "2024",
+            "Year": "267,603",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Kazakhstan",
+            "IMF[1][12]": "300,538",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "288,406",
+            "Forecast": "2024",
+            "Year": "264,293",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Algeria",
+            "IMF[1][12]": "268,885",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "263,620",
+            "Forecast": "2024",
+            "Year": "247,626",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Greece",
+            "IMF[1][12]": "267,348",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "257,145",
+            "Forecast": "2024",
+            "Year": "243,498",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Iraq",
+            "IMF[1][12]": "258,020",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "279,641",
+            "Forecast": "2024",
+            "Year": "232,107",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "New Zealand",
+            "IMF[1][12]": "248,666",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "260,236",
+            "Forecast": "2024",
+            "Year": "252,176",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Hungary",
+            "IMF[1][12]": "237,070",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "222,905",
+            "Forecast": "2024",
+            "Year": "212,657",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Qatar",
+            "IMF[1][12]": "222,776",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "217,983",
+            "Forecast": "2024",
+            "Year": "213,003",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Ukraine",
+            "IMF[1][12]": "205,742",
+            "World Bank[13]": "[n 6]2025",
+            "United Nations[14]": "190,741",
+            "Forecast": "[n 6]2024",
+            "Year": "178,757",
+            "Estimate": "[n 6]2023"
+        },
+        {
+            "Country/Territory": "Cuba",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "\u2014",
+            "United Nations[14]": "201,986",
+            "Forecast": "2023"
+        },
+        {
+            "Country/Territory": "Nigeria",
+            "IMF[1][12]": "188,271",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "187,760",
+            "Forecast": "2024",
+            "Year": "374,984",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Morocco",
+            "IMF[1][12]": "165,835",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "154,431",
+            "Forecast": "2024",
+            "Year": "144,438",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Kuwait",
+            "IMF[1][12]": "153,101",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "160,227",
+            "Forecast": "2024",
+            "Year": "163,705",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Slovakia",
+            "IMF[1][12]": "147,031",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "141,776",
+            "Forecast": "2024",
+            "Year": "132,908",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Uzbekistan",
+            "IMF[1][12]": "132,484",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "114,965",
+            "Forecast": "2024",
+            "Year": "90,889",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Kenya",
+            "IMF[1][12]": "131,673",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "124,499",
+            "Forecast": "2024",
+            "Year": "108,039",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Dominican Republic",
+            "IMF[1][12]": "127,828",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "124,282",
+            "Forecast": "2024",
+            "Year": "121,444",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Ecuador",
+            "IMF[1][12]": "125,677",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "124,676",
+            "Forecast": "2024",
+            "Year": "118,845",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Puerto Rico",
+            "IMF[1][12]": "122,522",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "125,842",
+            "Forecast": "2024",
+            "Year": "117,902",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Guatemala",
+            "IMF[1][12]": "121,177",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "113,200",
+            "Forecast": "2024",
+            "Year": "104,451",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Ethiopia",
+            "IMF[1][12]": "117,457",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "163,698",
+            "Forecast": "2023",
+            "Year": "159,746",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Bulgaria",
+            "IMF[1][12]": "117,007",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "112,212",
+            "Forecast": "2024",
+            "Year": "102,397",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Angola",
+            "IMF[1][12]": "113,343",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "80,397",
+            "Forecast": "2024",
+            "Year": "90,552",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Venezuela",
+            "IMF[1][12]": "108,511",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "\u2014",
+            "Forecast": "139,395",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Oman",
+            "IMF[1][12]": "104,351",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "106,943",
+            "Forecast": "2024",
+            "Year": "105,896",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Costa Rica",
+            "IMF[1][12]": "102,591",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "95,350",
+            "Forecast": "2024",
+            "Year": "86,498",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Sri Lanka",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "98,963",
+            "United Nations[14]": "2024",
+            "Forecast": "84,364",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Croatia",
+            "IMF[1][12]": "98,951",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "92,526",
+            "Forecast": "2024",
+            "Year": "84,391",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Luxembourg",
+            "IMF[1][12]": "96,613",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "93,197",
+            "Forecast": "2024",
+            "Year": "85,755",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Ivory Coast",
+            "IMF[1][12]": "94,483",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "86,538",
+            "Forecast": "2024",
+            "Year": "78,789",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Serbia",
+            "IMF[1][12]": "92,549",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "89,084",
+            "Forecast": "2024",
+            "Year": "75,187",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Panama",
+            "IMF[1][12]": "91,675",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "86,260",
+            "Forecast": "2024",
+            "Year": "83,382",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Lithuania",
+            "IMF[1][12]": "89,192",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "84,869",
+            "Forecast": "2024",
+            "Year": "79,790",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Turkmenistan",
+            "IMF[1][12]": "89,054",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "64,240",
+            "Forecast": "2024",
+            "Year": "59,887",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Ghana",
+            "IMF[1][12]": "88,332",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "82,825",
+            "Forecast": "2024",
+            "Year": "76,370",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Tanzania",
+            "IMF[1][12]": "85,977",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "78,780",
+            "Forecast": "2024",
+            "Year": "78,353",
+            "Estimate": "[n 7]2023"
+        },
+        {
+            "Country/Territory": "Uruguay",
+            "IMF[1][12]": "79,731",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "80,962",
+            "Forecast": "2024",
+            "Year": "77,236",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "DR Congo",
+            "IMF[1][12]": "79,119",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "70,749",
+            "Forecast": "2024",
+            "Year": "69,338",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Azerbaijan",
+            "IMF[1][12]": "78,870",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "74,316",
+            "Forecast": "2024",
+            "Year": "72,356",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Slovenia",
+            "IMF[1][12]": "75,224",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "72,485",
+            "Forecast": "2024",
+            "Year": "69,148",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Belarus",
+            "IMF[1][12]": "71,561",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "75,962",
+            "Forecast": "2024",
+            "Year": "71,857",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Myanmar",
+            "IMF[1][12]": "64,944",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "74,080",
+            "Forecast": "2024",
+            "Year": "62,084",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Uganda",
+            "IMF[1][12]": "64,277",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "53,652",
+            "Forecast": "2024",
+            "Year": "51,023",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Bolivia",
+            "IMF[1][12]": "56,339",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "49,668",
+            "Forecast": "2024",
+            "Year": "45,135",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Tunisia",
+            "IMF[1][12]": "56,291",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "53,410",
+            "Forecast": "2024",
+            "Year": "48,541",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Jordan",
+            "IMF[1][12]": "56,102",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "53,352",
+            "Forecast": "2024",
+            "Year": "50,814",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Cameroon",
+            "IMF[1][12]": "56,011",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "51,327",
+            "Forecast": "2024",
+            "Year": "49,279",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Macau",
+            "IMF[1][12]": "53,354",
+            "World Bank[13]": "[n 8]2025",
+            "United Nations[14]": "50,183",
+            "Forecast": "2024",
+            "Year": "45,803",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Cambodia",
+            "IMF[1][12]": "49,799",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "46,353",
+            "Forecast": "2024",
+            "Year": "42,824",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Bahrain",
+            "IMF[1][12]": "47,829",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "47,737",
+            "Forecast": "2024",
+            "Year": "44,662",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Libya",
+            "IMF[1][12]": "47,484",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "46,636",
+            "Forecast": "2024",
+            "Year": "44,030",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Nepal",
+            "IMF[1][12]": "46,080",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "42,914",
+            "Forecast": "2024",
+            "Year": "40,484",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Latvia",
+            "IMF[1][12]": "45,535",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "43,521",
+            "Forecast": "2024",
+            "Year": "42,248",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Paraguay",
+            "IMF[1][12]": "45,465",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "44,458",
+            "Forecast": "2024",
+            "Year": "42,955",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Estonia",
+            "IMF[1][12]": "45,004",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "42,765",
+            "Forecast": "2024",
+            "Year": "41,291",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Cyprus",
+            "IMF[1][12]": "38,736",
+            "World Bank[13]": "[n 9]2025",
+            "United Nations[14]": "36,333",
+            "Forecast": "[n 9]2024",
+            "Year": "33,887",
+            "Estimate": "[n 9]2023"
+        },
+        {
+            "Country/Territory": "Zimbabwe",
+            "IMF[1][12]": "38,172",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "44,188",
+            "Forecast": "2024",
+            "Year": "30,368",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Honduras",
+            "IMF[1][12]": "38,172",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "37,094",
+            "Forecast": "2024",
+            "Year": "34,401",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "El Salvador",
+            "IMF[1][12]": "36,749",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "35,365",
+            "Forecast": "2024",
+            "Year": "34,016",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Georgia",
+            "IMF[1][12]": "35,353",
+            "World Bank[13]": "[n 10]2025",
+            "United Nations[14]": "33,776",
+            "Forecast": "[n 10]2024",
+            "Year": "30,536",
+            "Estimate": "[n 10]2023"
+        },
+        {
+            "Country/Territory": "Iceland",
+            "IMF[1][12]": "35,309",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "33,463",
+            "Forecast": "2024",
+            "Year": "31,325",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Senegal",
+            "IMF[1][12]": "34,728",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "32,267",
+            "Forecast": "2024",
+            "Year": "30,408",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Haiti",
+            "IMF[1][12]": "33,548",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "25,224",
+            "Forecast": "2024",
+            "Year": "19,841",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Papua New Guinea",
+            "IMF[1][12]": "32,835",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "32,538",
+            "Forecast": "2024",
+            "Year": "31,020",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Sudan",
+            "IMF[1][12]": "31,506",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "49,910",
+            "Forecast": "2024",
+            "Year": "34,021",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Guinea",
+            "IMF[1][12]": "30,094",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "25,334",
+            "Forecast": "2024",
+            "Year": "23,006",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Zambia",
+            "IMF[1][12]": "28,910",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "26,326",
+            "Forecast": "2024",
+            "Year": "27,578",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Bosnia and Herzegovina",
+            "IMF[1][12]": "28,807",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "28,343",
+            "Forecast": "2024",
+            "Year": "27,515",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Albania",
+            "IMF[1][12]": "28,372",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "27,178",
+            "Forecast": "2024",
+            "Year": "22,978",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Burkina Faso",
+            "IMF[1][12]": "27,056",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "23,250",
+            "Forecast": "2024",
+            "Year": "20,325",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Trinidad and Tobago",
+            "IMF[1][12]": "26,467",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "26,429",
+            "Forecast": "2024",
+            "Year": "25,489",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Armenia",
+            "IMF[1][12]": "26,258",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "25,787",
+            "Forecast": "2024",
+            "Year": "24,219",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Guyana",
+            "IMF[1][12]": "25,822",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "24,836",
+            "Forecast": "2024",
+            "Year": "16,683",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Mongolia",
+            "IMF[1][12]": "25,804",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "23,586",
+            "Forecast": "2024",
+            "Year": "19,872",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Malta",
+            "IMF[1][12]": "25,750",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "24,322",
+            "Forecast": "2024",
+            "Year": "22,212",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Mozambique",
+            "IMF[1][12]": "23,771",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "22,417",
+            "Forecast": "2024",
+            "Year": "20,954",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Mali",
+            "IMF[1][12]": "23,208",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "26,588",
+            "Forecast": "2024",
+            "Year": "20,662",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Benin",
+            "IMF[1][12]": "22,236",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "21,483",
+            "Forecast": "2024",
+            "Year": "19,673",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Niger",
+            "IMF[1][12]": "21,874",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "19,538",
+            "Forecast": "2024",
+            "Year": "16,819",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Jamaica",
+            "IMF[1][12]": "21,411",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "19,930",
+            "Forecast": "2024",
+            "Year": "19,423",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Nicaragua",
+            "IMF[1][12]": "21,155",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "19,694",
+            "Forecast": "2024",
+            "Year": "17,829",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Gabon",
+            "IMF[1][12]": "20,391",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "20,867",
+            "Forecast": "2024",
+            "Year": "20,056",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Lebanon",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "20,079",
+            "United Nations[14]": "2023",
+            "Forecast": "27,464",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Syria",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "19,993",
+            "United Nations[14]": "2023",
+            "Forecast": "29,028",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Kyrgyzstan",
+            "IMF[1][12]": "19,849",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "17,478",
+            "Forecast": "2024",
+            "Year": "13,988",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Moldova",
+            "IMF[1][12]": "19,462",
+            "World Bank[13]": "[n 11]2025",
+            "United Nations[14]": "18,200",
+            "Forecast": "[n 11]2024",
+            "Year": "16,542",
+            "Estimate": "[n 11]2023"
+        },
+        {
+            "Country/Territory": "Botswana",
+            "IMF[1][12]": "19,400",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "19,401",
+            "Forecast": "2024",
+            "Year": "19,396",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Chad",
+            "IMF[1][12]": "18,792",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "20,626",
+            "Forecast": "2024",
+            "Year": "17,643",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Madagascar",
+            "IMF[1][12]": "18,708",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "17,421",
+            "Forecast": "2024",
+            "Year": "15,870",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "North Macedonia",
+            "IMF[1][12]": "17,885",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "16,685",
+            "Forecast": "2024",
+            "Year": "15,764",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Yemen",
+            "IMF[1][12]": "17,401",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "\u2014",
+            "Forecast": "8,758",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Afghanistan",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "17,152",
+            "United Nations[14]": "2023",
+            "Forecast": "16,417",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "North Korea",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "\u2014",
+            "United Nations[14]": "16,447",
+            "Forecast": "2023"
+        },
+        {
+            "Country/Territory": "Laos",
+            "IMF[1][12]": "16,322",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "16,503",
+            "Forecast": "2024",
+            "Year": "15,008",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Brunei",
+            "IMF[1][12]": "16,007",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "15,463",
+            "Forecast": "2024",
+            "Year": "15,128",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Mauritius",
+            "IMF[1][12]": "15,495",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "14,953",
+            "Forecast": "2024",
+            "Year": "14,397",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Congo",
+            "IMF[1][12]": "15,281",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "15,720",
+            "Forecast": "2024",
+            "Year": "14,167",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Bahamas",
+            "IMF[1][12]": "15,178",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "15,833",
+            "Forecast": "2024",
+            "Year": "14,338",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Tajikistan",
+            "IMF[1][12]": "14,836",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "14,205",
+            "Forecast": "2024",
+            "Year": "12,061",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Rwanda",
+            "IMF[1][12]": "14,771",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "14,252",
+            "Forecast": "2024",
+            "Year": "14,097",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Namibia",
+            "IMF[1][12]": "14,214",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "13,372",
+            "Forecast": "2024",
+            "Year": "12,351",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Malawi",
+            "IMF[1][12]": "13,959",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "11,009",
+            "Forecast": "2024",
+            "Year": "12,627",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Palestine",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "13,711",
+            "United Nations[14]": "[n 12]2024",
+            "Forecast": "17,396",
+            "Year": "[n 13]2023"
+        },
+        {
+            "Country/Territory": "Somalia",
+            "IMF[1][12]": "12,994",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "12,109",
+            "Forecast": "2024",
+            "Year": "10,969",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Equatorial Guinea",
+            "IMF[1][12]": "12,684",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "12,766",
+            "Forecast": "2024",
+            "Year": "12,117",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Channel Islands",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "12,508",
+            "United Nations[14]": "2023",
+            "Forecast": "\u2014"
+        },
+        {
+            "Country/Territory": "Mauritania",
+            "IMF[1][12]": "11,470",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "10,767",
+            "Forecast": "2024",
+            "Year": "10,652",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Kosovo",
+            "IMF[1][12]": "11,274",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "11,149",
+            "Forecast": "2024",
+            "Year": "10,467",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "New Caledonia",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "9,623",
+            "United Nations[14]": "2022",
+            "Forecast": "10,140",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Togo",
+            "IMF[1][12]": "10,023",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "9,926",
+            "Forecast": "2024",
+            "Year": "9,278",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Monaco",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "9,995",
+            "United Nations[14]": "2023",
+            "Forecast": "9,995",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Bermuda",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "8,980",
+            "United Nations[14]": "2024",
+            "Forecast": "8,142",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Montenegro",
+            "IMF[1][12]": "8,562",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "8,070",
+            "Forecast": "2024",
+            "Year": "7,530",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Sierra Leone",
+            "IMF[1][12]": "8,386",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "7,548",
+            "Forecast": "2024",
+            "Year": "6,412",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Liechtenstein",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "8,288",
+            "United Nations[14]": "2023",
+            "Forecast": "7,965",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Barbados",
+            "IMF[1][12]": "7,552",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "7,165",
+            "Forecast": "2024",
+            "Year": "6,721",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Maldives",
+            "IMF[1][12]": "7,480",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "6,975",
+            "Forecast": "2024",
+            "Year": "6,591",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Isle of Man",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "7,431",
+            "United Nations[14]": "2022",
+            "Forecast": "\u2014"
+        },
+        {
+            "Country/Territory": "Cayman Islands",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "7,139",
+            "United Nations[14]": "2023",
+            "Forecast": "7,127",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Guam",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "6,910",
+            "United Nations[14]": "2022",
+            "Forecast": "\u2014"
+        },
+        {
+            "Country/Territory": "Burundi",
+            "IMF[1][12]": "6,745",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "2,162",
+            "Forecast": "2024",
+            "Year": "3,960",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "French Polynesia",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "6,402",
+            "United Nations[14]": "2023",
+            "Forecast": "6,398",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Fiji",
+            "IMF[1][12]": "6,257",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "5,841",
+            "Forecast": "2024",
+            "Year": "5,442",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Eswatini",
+            "IMF[1][12]": "5,483",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "4,892",
+            "Forecast": "2024",
+            "Year": "4,574",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Liberia",
+            "IMF[1][12]": "5,166",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "4,750",
+            "Forecast": "2024",
+            "Year": "5,039",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "U.S. Virgin Islands",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "4,672",
+            "United Nations[14]": "2022",
+            "Forecast": "\u2014"
+        },
+        {
+            "Country/Territory": "Djibouti",
+            "IMF[1][12]": "4,587",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "4,086",
+            "Forecast": "2024",
+            "Year": "4,000",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Suriname",
+            "IMF[1][12]": "4,506",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "4,714",
+            "Forecast": "2024",
+            "Year": "3,759",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Aruba",
+            "IMF[1][12]": "4,100",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "3,649",
+            "Forecast": "2023",
+            "Year": "3,649",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Andorra",
+            "IMF[1][12]": "4,035",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "4,040",
+            "Forecast": "2024",
+            "Year": "3,785",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "South Sudan",
+            "IMF[1][12]": "3,998",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "\u2014",
+            "Forecast": "4,629",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Faroe Islands",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "3,907",
+            "United Nations[14]": "2023",
+            "Forecast": "\u2014"
+        },
+        {
+            "Country/Territory": "Belize",
+            "IMF[1][12]": "3,611",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "3,516",
+            "Forecast": "2024",
+            "Year": "3,079",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Bhutan",
+            "IMF[1][12]": "3,422",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "3,019",
+            "Forecast": "2023",
+            "Year": "3,019",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Greenland",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "3,327",
+            "United Nations[14]": "2023",
+            "Forecast": "3,041",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Cura\u00e7ao",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "3,281",
+            "United Nations[14]": "2023",
+            "Forecast": "3,281",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Central African Republic",
+            "IMF[1][12]": "2,932",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "2,752",
+            "Forecast": "2024",
+            "Year": "2,555",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Cape Verde",
+            "IMF[1][12]": "2,786",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "2,768",
+            "Forecast": "2024",
+            "Year": "2,591",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Gambia",
+            "IMF[1][12]": "2,771",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "2,508",
+            "Forecast": "2024",
+            "Year": "2,401",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Saint Lucia",
+            "IMF[1][12]": "2,632",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "2,549",
+            "Forecast": "2024",
+            "Year": "2,430",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Zanzibar",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "\u2014",
+            "United Nations[14]": "2,483",
+            "Forecast": "2023"
+        },
+        {
+            "Country/Territory": "Lesotho",
+            "IMF[1][12]": "2,404",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "2,272",
+            "Forecast": "2024",
+            "Year": "2,118",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Antigua and Barbuda",
+            "IMF[1][12]": "2,373",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "2,225",
+            "Forecast": "2024",
+            "Year": "2,033",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Eritrea",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "\u2014",
+            "United Nations[14]": "2,275",
+            "Forecast": "2023"
+        },
+        {
+            "Country/Territory": "Guinea-Bissau",
+            "IMF[1][12]": "2,274",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "2,120",
+            "Forecast": "2024",
+            "Year": "1,841",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Seychelles",
+            "IMF[1][12]": "2,198",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "2,167",
+            "Forecast": "2024",
+            "Year": "2,141",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Timor-Leste",
+            "IMF[1][12]": "2,115",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,881",
+            "Forecast": "2024",
+            "Year": "2,080",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "San Marino",
+            "IMF[1][12]": "2,047",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,832",
+            "Forecast": "2022",
+            "Year": "1,987",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Solomon Islands",
+            "IMF[1][12]": "1,898",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,761",
+            "Forecast": "2024",
+            "Year": "1,633",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Turks and Caicos Islands",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "1,745",
+            "United Nations[14]": "2024",
+            "Forecast": "1,402",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Sint Maarten",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "1,735",
+            "United Nations[14]": "2024",
+            "Forecast": "1,677",
+            "Year": "2023"
+        },
+        {
+            "Country/Territory": "Comoros",
+            "IMF[1][12]": "1,548",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,546",
+            "Forecast": "2024",
+            "Year": "1,448",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "British Virgin Islands",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "\u2014",
+            "United Nations[14]": "1,506",
+            "Forecast": "2023"
+        },
+        {
+            "Country/Territory": "Grenada",
+            "IMF[1][12]": "1,464",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,391",
+            "Forecast": "2024",
+            "Year": "1,317",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Vanuatu",
+            "IMF[1][12]": "1,267",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,161",
+            "Forecast": "2024",
+            "Year": "1,119",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Saint Vincent and the Grenadines",
+            "IMF[1][12]": "1,242",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,157",
+            "Forecast": "2024",
+            "Year": "1,091",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Northern Mariana Islands",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "1,096",
+            "United Nations[14]": "2022",
+            "Forecast": "\u2014"
+        },
+        {
+            "Country/Territory": "Samoa",
+            "IMF[1][12]": "1,160",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,068",
+            "Forecast": "2024",
+            "Year": "1,032",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Saint Kitts and Nevis",
+            "IMF[1][12]": "1,129",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "1,067",
+            "Forecast": "2024",
+            "Year": "1,058",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "American Samoa",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "871",
+            "United Nations[14]": "2022",
+            "Forecast": "\u2014"
+        },
+        {
+            "Country/Territory": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+            "IMF[1][12]": "864",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "764",
+            "Forecast": "2024",
+            "Year": "684",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Dominica",
+            "IMF[1][12]": "742",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "689",
+            "Forecast": "2024",
+            "Year": "651",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Saint Martin",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "649",
+            "United Nations[14]": "2021",
+            "Forecast": "\u2014"
+        },
+        {
+            "Country/Territory": "Tonga",
+            "IMF[1][12]": "568",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "509",
+            "Forecast": "2023",
+            "Year": "508",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Micronesia",
+            "IMF[1][12]": "500",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "471",
+            "Forecast": "2024",
+            "Year": "460",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Anguilla",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "\u2014",
+            "United Nations[14]": "416",
+            "Forecast": "2023"
+        },
+        {
+            "Country/Territory": "Cook Islands",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "\u2014",
+            "United Nations[14]": "366",
+            "Forecast": "2023"
+        },
+        {
+            "Country/Territory": "Palau",
+            "IMF[1][12]": "333",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "282",
+            "Forecast": "2023",
+            "Year": "282",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Kiribati",
+            "IMF[1][12]": "312",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "308",
+            "Forecast": "2024",
+            "Year": "289",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Marshall Islands",
+            "IMF[1][12]": "297",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "280",
+            "Forecast": "2024",
+            "Year": "270",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Nauru",
+            "IMF[1][12]": "169",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "160",
+            "Forecast": "2024",
+            "Year": "176",
+            "Estimate": "2023"
+        },
+        {
+            "Country/Territory": "Montserrat",
+            "IMF[1][12]": "\u2014",
+            "World Bank[13]": "\u2014",
+            "United Nations[14]": "80",
+            "Forecast": "2023"
+        },
+        {
+            "Country/Territory": "Tuvalu",
+            "IMF[1][12]": "65",
+            "World Bank[13]": "2025",
+            "United Nations[14]": "62",
+            "Forecast": "2023",
+            "Year": "68",
+            "Estimate": "2023"
+        }
+    ]
+]
