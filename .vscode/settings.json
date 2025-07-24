@@ -1,3 +1,4 @@
 {
-    "files.defaultLanguage": "python"
+    "files.defaultLanguage": "python",
+    "python-envs.pythonProjects": []
 }
