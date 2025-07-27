@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"name": "30-Days-of-python",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"files.defaultLanguage": "python",
+		"python-envs.defaultEnvManager": "ms-python.python:system"
+	}
+}
