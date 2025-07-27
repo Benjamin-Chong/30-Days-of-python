@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 from bson.objectid import ObjectId
-from flask import Flask, render_template
-uri = 'mongodb+srv://benchong0248:txGjtjYEcjde4LBm@bencluster0248.2ntwz7t.mongodb.net/?retryWrites=true&w=majority&appName=BenCluster0248'
+
+uri = 'mongodb+srv://benchong0248:<password>@bencluster0248.2ntwz7t.mongodb.net/?retryWrites=true&w=majority&appName=BenCluster0248'
 client = MongoClient(uri)
 db = client.BenCluster0248
 db.students.insert_one({'name':'Benjamin', 'country':'USA', 'city':'Sacramento', 'age': 20})
@@ -29,7 +29,12 @@ query = {
     "city":"Helsinki"
 }
 students = db.students.find(query).limit(5).sort('age') #adding a to the amount found and sort
- 
+
+query = {'name':'John'}
+db.students.delete_one(query)
+
+for student in db.students.find():
+    print(student)
 for student in students:
     print(student)
 
